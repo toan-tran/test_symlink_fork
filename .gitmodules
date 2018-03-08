@@ -1,3 +1,6 @@
 [submodule "submodules/symlink"]
 	path = submodules/symlink
 	url = ../test_symlink.git
+[submodule "submodules/cloudera-deploy"]
+	path = submodules/cloudera-deploy
+	url = ../cloudera-deploy.git
