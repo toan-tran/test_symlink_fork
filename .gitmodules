@@ -1,0 +1,3 @@
+[submodule "submodules/symlink"]
+	path = submodules/symlink
+	url = ../test_symlink.git
